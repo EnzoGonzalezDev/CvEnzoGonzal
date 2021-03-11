@@ -36,6 +36,11 @@ p {
 .bottc{
 }
 
+.comp{
+  width: 25%;
+  height: 25%;
+}
+
 .pro {
   text-decoration: underline;
 }
