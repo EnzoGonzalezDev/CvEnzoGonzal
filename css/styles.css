@@ -105,15 +105,15 @@ hr {
   position:absolute;
   right: 300px;
   top: 50px;
-  height: auto;
-  width: auto;
+  height: 7%;
+  width: 5%;
 }
 .cloud2 {
   position:absolute;
   left: 300px;
   bottom:300px;
-  height: auto;
-  width: auto;
+  height: 5%;
+  width: 7%;
 }
 
 .m{
