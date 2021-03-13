@@ -101,20 +101,6 @@ hr {
 }
 
 
-.cloud1{
-  position:absolute;
-  right: 300px;
-  top: 50px;
-  height: 7%;
-  width: 5%;
-}
-.cloud2 {
-  position:absolute;
-  left: 300px;
-  bottom:300px;
-  height: 5%;
-  width: 7%;
-}
 
 .m{
   width: 50%;
